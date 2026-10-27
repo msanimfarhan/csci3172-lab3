@@ -7,7 +7,8 @@ and delete fictional furniture records.
 
 Date Created: 27 October 2026
 Last Modified: 27 October 2026
-Render URL: TO BE ADDED
+Render URL: https://csci3172-lab3-1png.onrender.com/
+API URL: https://csci3172-lab3-1png.onrender.com/api/items
 GitLab URL: https://git.cs.dal.ca/mfarhan/csci-3172/-/tree/main/labs/lab3
 
 ## Author
