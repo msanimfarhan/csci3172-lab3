@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Furniture Inventory REST API for CSCI 3172 Lab 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "MD Sanim Farhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
